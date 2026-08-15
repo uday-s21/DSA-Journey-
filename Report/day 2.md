@@ -10,24 +10,22 @@
 
 | Problem Name | Difficulty | Platform | Language | Time Complexity | Space Complexity |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Count all Digits of a Number | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Reverse a Number | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Palindrome Number | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| GCD of Two Numbers | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Check if the Number is Armstrong | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Print all Divisors | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Check for Prime Number | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Understand Recursion by Print Something N Times | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Print Name N Times using Recursion | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Print 1 to N using Recursion | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Print N to 1 using Recursion | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Sum of First N Numbers | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Factorial of a Given Number | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Reverse an Array | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Check if String is Palindrome or Not | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-| Fibonacci Number | Easy | [Add Platform] | [Java] | [Add Time Complexity] | [Add Space Complexity] |
-
-*Note: Problems were solved on LeetCode where a LeetCode link was available on Striver's sheet; the rest were solved and tracked in a personal Java notebook. Platform column left as a placeholder per-problem since the exact source wasn't specified for each — update as needed.*
+| Count all Digits of a Number | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Reverse a Number | Easy | LeetCode | Java | N/A | N/A |
+| Palindrome Number | Easy | LeetCode | Java | N/A | N/A |
+| GCD of Two Numbers | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Check if the Number is Armstrong | Easy | LeetCode | Java | N/A | N/A |
+| Print all Divisors | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Check for Prime Number | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Understand Recursion by Print Something N Times | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Print Name N Times using Recursion | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Print 1 to N using Recursion | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Print N to 1 using Recursion | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Sum of First N Numbers | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Factorial of a Given Number | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Reverse an Array | Easy | BlueJ Notebook | Java | N/A | N/A |
+| Check if String is Palindrome or Not | Easy | LeetCode | Java | N/A | N/A |
+| Fibonacci Number | Easy | LeetCode | Java | N/A | N/A |
 
 ## 💡 Key Takeaways & Patterns
 *   Recognized recursion as fundamentally building on the idea of breaking a problem into a smaller identical subproblem plus a base case — this became clearer while progressing from simple "print N times" to more applied problems like array reversal and Fibonacci.
